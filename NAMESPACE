@@ -1,0 +1,2 @@
+exportPattern("^[[:alpha:]]+")
+export(loadCSVtoP2distance, p2distance, makeReferenceVector)

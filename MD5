@@ -1,0 +1,11 @@
+7f90174986b060c80b74829973db5f32 *DESCRIPTION
+0fba15bee19fa5c4d9e430fd870763a3 *NAMESPACE
+491fc896b94f16e6692d43a459ea26c0 *R/loadCSVtoP2distance.R
+287395c2c7f2a7058f63d1a660d2003a *R/makeReferenceVector.R
+5d2ed0b9a00a37f02b3981562033abc7 *R/p2distance.R
+18f17a408388865c931299fc07b920ba *data/welfare.rda
+b9238941f0294a9a8188917a850d4958 *man/loadCSVtoP2distance.Rd
+97c51234a85117649a6f8029ce9f4b36 *man/makeReferenceVector.Rd
+feb6daacbf78b8c778c18e68766dd9f1 *man/p2distance-package.Rd
+44ee44fed9558a03b3200171dfb787e9 *man/p2distance.Rd
+fcd9da34898e237955424338f5a7acc0 *man/welfare.Rd
